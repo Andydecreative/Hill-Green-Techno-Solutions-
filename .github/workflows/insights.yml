@@ -1,0 +1,41 @@
+name: Refresh Hill Green Insights
+
+on:
+  schedule:
+    # 07:15 India Standard Time (01:45 UTC), every day
+    - cron: "45 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hill-green-insights-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - name: Check out website
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect India news and write summaries
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/fetch_news.py
+      - name: Commit updated Insights dataset
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/insights.json
+          if git diff --cached --quiet; then
+            echo "No Insights changes to publish."
+          else
+            git commit -m "chore: refresh India-focused Hill Green Insights"
+            git push
+          fi
