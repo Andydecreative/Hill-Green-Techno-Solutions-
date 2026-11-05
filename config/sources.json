@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "description": "India-focused sources monitored by Hill Green Insights.",
+  "max_age_days": 21,
+  "max_articles": 60,
+  "feeds": [
+    {
+      "name": "Press Information Bureau",
+      "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1",
+      "category": "Policy & research"
+    },
+    {
+      "name": "IBEF",
+      "url": "https://www.ibef.org/news/feed",
+      "category": "Industry & economy"
+    },
+    {
+      "name": "ET Government – Digital India",
+      "url": "https://government.economictimes.indiatimes.com/rss/digital-india",
+      "category": "Technology"
+    },
+    {
+      "name": "ET Government – Policy",
+      "url": "https://government.economictimes.indiatimes.com/rss/policy",
+      "category": "Policy & research"
+    },
+    {
+      "name": "ET Government – Education",
+      "url": "https://government.economictimes.indiatimes.com/rss/education",
+      "category": "Skills & livelihoods"
+    },
+    {
+      "name": "ET Government – Mobility",
+      "url": "https://government.economictimes.indiatimes.com/rss/mobility",
+      "category": "EV & mobility"
+    },
+    {
+      "name": "ET Government – Technology",
+      "url": "https://government.economictimes.indiatimes.com/rss/technology",
+      "category": "Technology"
+    },
+    {
+      "name": "ET Government – Economy",
+      "url": "https://government.economictimes.indiatimes.com/rss/economy",
+      "category": "Industry & economy"
+    }
+  ]
+}
