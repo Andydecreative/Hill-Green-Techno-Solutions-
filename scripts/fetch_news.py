@@ -118,7 +118,7 @@ def main():
     cutoff=now-dt.timedelta(days=int(config.get("max_age_days",21)))
     try: old=json.loads(OUTPUT.read_text(encoding="utf-8"))
     except Exception: old={"articles":[]}
-    existing={a.get("id"):a for a in old.get("articles",[]) if a.get("id")}
+    existing={a.get("id"):a for a in old.get("articles",[]) if a.get("id") and parse_date(a.get("published_at")) and parse_date(a.get("published_at"))>=cutoff}
     seen_urls={a.get("url") for a in existing.values()}
     candidates=[]
     for source in config["feeds"]:
