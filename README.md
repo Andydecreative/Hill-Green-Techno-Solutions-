@@ -22,7 +22,7 @@ Keep the folder structure intact. Open `index.html` in a modern browser. For bes
 
 The Google Fonts and Unsplash images are loaded online. Replace image URLs with approved company photography before production. Telugu translations and a production contact-form backend still need to be added.
 
-The public-facing website does not include director biographies or profiles. Review all company credentials and project details before adding specific claims.
+The public-facing website focuses on the company's capabilities, programmes and services. Review all company credentials and project details before adding specific claims.
 
 
 ### Contact form integration
