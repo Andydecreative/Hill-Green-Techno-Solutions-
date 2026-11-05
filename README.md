@@ -20,7 +20,7 @@ This package contains the complete multi-page HTML website.
 ## Preview
 Keep the folder structure intact. Open `index.html` in a modern browser. For best results, run a local static server from this folder (for example, `python3 -m http.server 8000`) and visit `http://localhost:8000`.
 
-The Google Fonts and Unsplash images are loaded online. Replace image URLs with approved company photography before production. Telugu translations and a production contact-form backend still need to be added.
+The Google Fonts and Unsplash images are loaded online. Replace image URLs with approved company photography as it becomes available. The public-facing website is maintained in English.
 
 The public-facing website focuses on the company's capabilities, programmes and services. Review all company credentials and project details before adding specific claims.
 
@@ -33,7 +33,7 @@ The Contact Us page now embeds the Google Form supplied by the site owner. Submi
 - The footer uses the original full-colour logo on a light background for legibility.
 - The Connect column retains only the Contact us link and includes address, phone and email details.
 - The Google Forms enquiry embed remains on the Contact Us page.
-- Note: the current site content remains in English. Full Telugu page translations have not been added or reviewed.
+- The website is intentionally published in English only.
 
 
 Latest correction: removed the obsolete language-toggle event handler that referenced a button no longer present in the navigation. This JavaScript error prevented the page-rendering function from running. The page content is rendered from app.js on each HTML route. The footer tagline has also been removed. The full Visakhapatnam postal address remains in the contact details as previously requested.
