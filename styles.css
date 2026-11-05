@@ -64,3 +64,13 @@ h1,h2,h3,h4{font-family:Montserrat,Poppins,sans-serif;line-height:1.12;letter-sp
 .nipuna-audience-list p{margin:0;font-size:.9rem}
 @media(max-width:850px){.nipuna-intro,.nipuna-audience{grid-template-columns:1fr;gap:35px}.nipuna-stats-grid{grid-template-columns:1fr 1fr}.nipuna-delivery-grid{grid-template-columns:1fr 1fr}}
 @media(max-width:560px){.nipuna-modules,.nipuna-delivery-grid{grid-template-columns:1fr}.nipuna-stats-grid{grid-template-columns:1fr 1fr}.nipuna-module{padding:18px;gap:13px}}
+
+
+/* Experience and impact page */
+.project-capabilities{margin:15px 0 0;padding:0 0 0 18px;color:var(--muted);font-size:.82rem;line-height:1.75}
+.project-capabilities li{padding:2px 0}
+.project-attribution{margin:28px 0 0;padding:17px 20px;border-left:3px solid var(--green);border-radius:0 12px 12px 0;background:#edf5ef;color:#536b78;font-size:.78rem;line-height:1.7}
+.project-copy .eyebrow{margin-bottom:10px}
+.project-copy h3{line-height:1.25}
+.project-img{position:relative}
+@media(max-width:560px){.project-capabilities{font-size:.8rem}.project-attribution{padding:15px;font-size:.76rem}}
