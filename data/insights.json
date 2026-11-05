@@ -1,5 +1,66 @@
 {
-  "updated_at": null,
+  "updated_at": "2026-11-05T09:00:00+05:30",
   "region": "India",
-  "articles": []
+  "articles": [
+    {
+      "id": "seed-msde-coe-20261102",
+      "title": "19 institutions recognised as Centres of Excellence-Skills",
+      "summary": "India’s Ministry of Skill Development and Entrepreneurship has recognised 19 institutions as Centres of Excellence-Skills. The network spans renewable energy, chemicals, construction, marine engineering, agriculture and other sectors, with the aim of strengthening advanced, industry-aligned training capacity.",
+      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2331775&lang=1&reg=1",
+      "source": "Press Information Bureau",
+      "category": "Skills & livelihoods",
+      "published_at": "2026-11-02T20:03:00+05:30",
+      "collected_at": "2026-11-05T09:00:00+05:30"
+    },
+    {
+      "id": "seed-bhashini-sebi-20261104",
+      "title": "BHASHINI and SEBI explore multilingual AI for investor information",
+      "summary": "The Digital India BHASHINI Division and SEBI have signed an MoU to explore multilingual AI and language technologies for investor education and access to financial information. The collaboration focuses on making financial information and services more accessible across India’s language communities.",
+      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2332400&lang=1&reg=1",
+      "source": "Press Information Bureau",
+      "category": "Technology",
+      "published_at": "2026-11-04T12:16:00+05:30",
+      "collected_at": "2026-11-05T09:00:00+05:30"
+    },
+    {
+      "id": "seed-indiaai-models-20261103",
+      "title": "IndiaAI Mission releases new indigenous foundation models",
+      "summary": "The IndiaAI Mission has announced the release of EKA-1 and the Dhīr 2B and Dhīr 5B models under its IndiaAI Innovation Centre pillar. The models are presented as Indian-developed AI systems with multilingual capabilities and potential applications across sectors.",
+      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2332315&lang=1&reg=3",
+      "source": "Press Information Bureau",
+      "category": "Technology",
+      "published_at": "2026-11-03T22:02:00+05:30",
+      "collected_at": "2026-11-05T09:00:00+05:30"
+    },
+    {
+      "id": "seed-vistar-20261104",
+      "title": "Cabinet approves VISTAR initiative for statistical transformation",
+      "summary": "The Union Cabinet has approved the Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR), with an outlay of ₹4,371.10 crore for FY 2026–27 to FY 2030–31. The scheme aims to strengthen official statistics through more timely data, improved interoperability and digital transformation.",
+      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2332480&lang=2&reg=48",
+      "source": "Press Information Bureau",
+      "category": "Policy & research",
+      "published_at": "2026-11-04T15:31:00+05:30",
+      "collected_at": "2026-11-05T09:00:00+05:30"
+    },
+    {
+      "id": "seed-ap-renewable-investment-20261105",
+      "title": "Essar Power plans 300 MW renewable energy project in Andhra Pradesh",
+      "summary": "Essar Power’s renewable energy subsidiary plans to develop a 300 MW firm and dispatchable renewable energy project in Andhra Pradesh with NHPC. The company has indicated an investment of about ₹4,500 crore; project technology mix and commissioning timelines have not yet been detailed.",
+      "url": "https://m.economictimes.com/industry/renewables/essar-power-to-invest-rs-4500-crore-in-300-mw-renewable-energy-project-in-andhra-pradesh/articleshow/135529093.cms",
+      "source": "The Economic Times",
+      "category": "Andhra Pradesh",
+      "published_at": "2026-11-05T08:00:00+05:30",
+      "collected_at": "2026-11-05T09:00:00+05:30"
+    },
+    {
+      "id": "seed-ap-cii-vizag-20261102",
+      "title": "Visakhapatnam prepares to host CII Partnership Summit",
+      "summary": "Andhra Pradesh is preparing to host the two-day CII Partnership Summit in Visakhapatnam on 12 and 13 November. State officials are coordinating arrangements and outreach to domestic and international investors, with the event expected to bring industry representatives together to explore investment and partnership opportunities.",
+      "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/ap-gears-up-for-cii-partnership-summit-in-visakhapatnam-on-nov-12-13-2001224",
+      "source": "Deccan Chronicle",
+      "category": "Andhra Pradesh",
+      "published_at": "2026-11-02T23:43:00+05:30",
+      "collected_at": "2026-11-05T09:00:00+05:30"
+    }
+  ]
 }
