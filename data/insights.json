@@ -1,46 +1,76 @@
 {
-  "updated_at": "2026-11-05T09:00:00+05:30",
+  "updated_at": "2026-11-06T14:01:47.919541+05:30",
   "region": "India",
   "articles": [
     {
-      "id": "seed-msde-coe-20261102",
-      "title": "19 institutions recognised as Centres of Excellence-Skills",
-      "summary": "India’s Ministry of Skill Development and Entrepreneurship has recognised 19 institutions as Centres of Excellence-Skills. The network spans renewable energy, chemicals, construction, marine engineering, agriculture and other sectors, with the aim of strengthening advanced, industry-aligned training capacity.",
-      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2331775&lang=1&reg=1",
-      "source": "Press Information Bureau",
-      "category": "Skills & livelihoods",
-      "published_at": "2026-11-02T20:03:00+05:30",
-      "collected_at": "2026-11-05T09:00:00+05:30"
-    },
-    {
-      "id": "seed-bhashini-sebi-20261104",
-      "title": "BHASHINI and SEBI explore multilingual AI for investor information",
-      "summary": "The Digital India BHASHINI Division and SEBI have signed an MoU to explore multilingual AI and language technologies for investor education and access to financial information. The collaboration focuses on making financial information and services more accessible across India’s language communities.",
-      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2332400&lang=1&reg=1",
-      "source": "Press Information Bureau",
+      "id": "945c51cf6934d463",
+      "title": "US midterm verdict: Oil prices to AI trade, 5 things that matter for India after Democrats’ sweep",
+      "summary": "Emkay Global outlines five implications for India, including lower crude oil prices, US bond yields, AI capex, tariff uncertainty and rupee stability following the Democrats’ capture of both chambers of Congress.",
+      "url": "https://government.economictimes.indiatimes.com/news/economy/us-midterm-verdict-oil-prices-to-ai-trade-5-things-that-matter-for-india-after-democrats-sweep/135595900",
+      "source": "ET Government – Economy",
       "category": "Technology",
-      "published_at": "2026-11-04T12:16:00+05:30",
-      "collected_at": "2026-11-05T09:00:00+05:30"
+      "published_at": "2026-11-06T11:25:06+05:30",
+      "collected_at": "2026-11-06T14:01:47.919541+05:30"
     },
     {
-      "id": "seed-indiaai-models-20261103",
-      "title": "IndiaAI Mission releases new indigenous foundation models",
-      "summary": "The IndiaAI Mission has announced the release of EKA-1 and the Dhīr 2B and Dhīr 5B models under its IndiaAI Innovation Centre pillar. The models are presented as Indian-developed AI systems with multilingual capabilities and potential applications across sectors.",
-      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2332315&lang=1&reg=3",
-      "source": "Press Information Bureau",
-      "category": "Technology",
-      "published_at": "2026-11-03T22:02:00+05:30",
-      "collected_at": "2026-11-05T09:00:00+05:30"
+      "id": "530f65dfad4d0788",
+      "title": "RITES eyes ₹10000 crore order book, accelerates project execution and global expansion: Rahul Mithal CMD",
+      "summary": "RITES CMD Rahul Mithal outlines plans for double-digit revenue growth, a ₹10,000 crore order book, international expansion and new opportunities in infrastructure consultancy and digital trade corridors.",
+      "url": "https://government.economictimes.indiatimes.com/news/digital-india/rites-eyes-10000-crore-order-book-accelerates-project-execution-and-global-expansion-rahul-mithal-cmd/135583358",
+      "source": "ET Government – Digital India",
+      "category": "Industry & economy",
+      "published_at": "2026-11-06T07:40:35+05:30",
+      "collected_at": "2026-11-06T14:01:47.919541+05:30"
     },
     {
-      "id": "seed-vistar-20261104",
-      "title": "Cabinet approves VISTAR initiative for statistical transformation",
-      "summary": "The Union Cabinet has approved the Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR), with an outlay of ₹4,371.10 crore for FY 2026–27 to FY 2030–31. The scheme aims to strengthen official statistics through more timely data, improved interoperability and digital transformation.",
-      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2332480&lang=2&reg=48",
-      "source": "Press Information Bureau",
+      "id": "697df29b438fd6f7",
+      "title": "Bengal CM pledges power subsidy to four lakh farmers, special package for cultivators in 3 districts",
+      "summary": "Chief Minister Suvendu Adhikari announced new welfare measures for farmers in West Bengal. He stated that 46 lakh farmers would benefit from the PM Kisan Samman Nidhi scheme.",
+      "url": "https://government.economictimes.indiatimes.com/news/policy/bengal-cm-pledges-power-subsidy-to-four-lakh-farmers-special-package-for-cultivators-in-3-districts/135567411",
+      "source": "ET Government – Policy",
       "category": "Policy & research",
-      "published_at": "2026-11-04T15:31:00+05:30",
-      "collected_at": "2026-11-05T09:00:00+05:30"
+      "published_at": "2026-11-05T14:58:59+05:30",
+      "collected_at": "2026-11-06T14:01:47.919541+05:30"
+    },
+    {
+      "id": "71343b4f44442576",
+      "title": "Centre issues advisory to states to boost fodder production, livestock infra under VB-G RAM G",
+      "summary": "The Centre has issued a joint advisory to enhance fodder security and livestock infrastructure in rural areas. The advisory outlines 22 permissible works under the Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission Act.",
+      "url": "https://government.economictimes.indiatimes.com/news/policy/centre-issues-advisory-to-states-to-boost-fodder-production-livestock-infra-under-vb-g-ram-g/135566612",
+      "source": "ET Government – Policy",
+      "category": "Industry & economy",
+      "published_at": "2026-11-05T14:34:25+05:30",
+      "collected_at": "2026-11-06T14:01:47.919541+05:30"
+    },
+    {
+      "id": "fdc47fb1ca1afdcc",
+      "title": "Maharashtra targets 30% electric vehicle registrations by 2030 to drive a greener future",
+      "summary": "Maharashtra plans to secure a 30 percent market share of electric vehicles by 2030. Chief Minister Devendra Fadnavis announced the state’s aim during the launch of Mercedes-Benz's GLC Electric.",
+      "url": "https://government.economictimes.indiatimes.com/news/policy/maharashtra-targets-30-electric-vehicle-registrations-by-2030-to-drive-a-greener-future/135559708",
+      "source": "ET Government – Policy",
+      "category": "EV & mobility",
+      "published_at": "2026-11-05T10:35:40+05:30",
+      "collected_at": "2026-11-06T14:01:47.919541+05:30"
+    },
+    {
+      "id": "65508b380e3f9a3d",
+      "title": "Tamil Nadu registration department records ₹1,950 cr revenue in Oct 2026",
+      "summary": "The Tamil Nadu registration department reported a revenue collection of ₹1,950 crore for October 2026. This indicates an increase from ₹1,803 crore collected in the same month last year.",
+      "url": "https://government.economictimes.indiatimes.com/news/economy/tamil-nadu-registration-department-records-1950-cr-revenue-in-oct-2026/135559429",
+      "source": "ET Government – Economy",
+      "category": "Policy & research",
+      "published_at": "2026-11-05T10:22:36+05:30",
+      "collected_at": "2026-11-06T14:01:47.919541+05:30"
+    },
+    {
+      "id": "b61df0b9fb0b3e74",
+      "title": "Bengal govt to include Syama Prasad Mookerjee in school curriculum, drop Singur chapter",
+      "summary": "West Bengal's government plans to introduce lessons on Syama Prasad Mookerjee in the school curriculum. The chapter discussing the Singur anti-land acquisition movement will be removed from Class 8 textbooks.",
+      "url": "https://government.economictimes.indiatimes.com/news/education/bengal-govt-to-include-syama-prasad-mookerjee-in-school-curriculum-drop-singur-chapter/135557476",
+      "source": "ET Government – Education",
+      "category": "Policy & research",
+      "published_at": "2026-11-05T09:13:21+05:30",
+      "collected_at": "2026-11-06T14:01:47.919541+05:30"
     },
     {
       "id": "seed-ap-renewable-investment-20261105",
@@ -53,6 +83,146 @@
       "collected_at": "2026-11-05T09:00:00+05:30"
     },
     {
+      "id": "3aaafb49fcdb9f25",
+      "title": "Allocate 25% of corporate CSR funds to agriculture to improve farmer incomes: Jagjeet Kandal",
+      "summary": "India's fragmented agricultural markets need stronger farmer collectives, transparent procurement systems and better market access to ensure fair returns, responsible sourcing and long-term sustainability.",
+      "url": "https://government.economictimes.indiatimes.com/news/economy/allocate-25-of-corporate-csr-funds-to-agriculture-to-improve-farmer-incomes-jagjeet-kandal/135544199",
+      "source": "ET Government – Economy",
+      "category": "Industry & economy",
+      "published_at": "2026-11-05T07:38:18+05:30",
+      "collected_at": "2026-11-06T14:01:47.919541+05:30"
+    },
+    {
+      "id": "01c64c755c7d65bc",
+      "title": "Cabinet approves ₹4,371 crore VISTAR scheme to upgrade India’s statistical system",
+      "summary": "The Viksit Bharat Initiative for statistical transformation, analytics and research (VISTAR) scheme is for five years till 2030-31. It will be a central sector scheme.",
+      "url": "https://government.economictimes.indiatimes.com/news/policy/cabinet-approves-4371-crore-vistar-scheme-to-upgrade-indias-statistical-system/135543289",
+      "source": "ET Government – Policy",
+      "category": "Policy & research",
+      "published_at": "2026-11-04T20:38:24+05:30",
+      "collected_at": "2026-11-06T14:01:47.919541+05:30"
+    },
+    {
+      "id": "3107cb9b09157fd1",
+      "title": "Cabinet okays ₹2,814 crore capex support scheme for domestic lithium, nickel processing",
+      "summary": "The scheme will provide a 30 per cent capital subsidy for setting up four critical mineral processing plants, comprising two lithium facilities and two nickel facilities, to reduce import dependence and strengthen domestic supply chains.",
+      "url": "https://government.economictimes.indiatimes.com/news/policy/cabinet-okays-2814-crore-capex-support-scheme-for-domestic-lithium-nickel-processing/135540455",
+      "source": "ET Government – Policy",
+      "category": "Policy & research",
+      "published_at": "2026-11-04T16:56:17+05:30",
+      "collected_at": "2026-11-06T14:01:47.919541+05:30"
+    },
+    {
+      "id": "seed-vistar-20261104",
+      "title": "Cabinet approves VISTAR initiative for statistical transformation",
+      "summary": "The Union Cabinet has approved the Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR), with an outlay of ₹4,371.10 crore for FY 2026–27 to FY 2030–31. The scheme aims to strengthen official statistics through more timely data, improved interoperability and digital transformation.",
+      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2332480&lang=2&reg=48",
+      "source": "Press Information Bureau",
+      "category": "Policy & research",
+      "published_at": "2026-11-04T15:31:00+05:30",
+      "collected_at": "2026-11-05T09:00:00+05:30"
+    },
+    {
+      "id": "829812cb5e0d0cd6",
+      "title": "Rajasthan govt transfers ₹482 crore to 66 lakh students through DBT: CM",
+      "summary": "The assistance includes ₹800 per student for uniforms and school bags for students in Classes 1 to 8 in government schools and girls in Classes 9 to 12.",
+      "url": "https://government.economictimes.indiatimes.com/news/education/rajasthan-govt-transfers-482-crore-to-66-lakh-students-through-dbt-cm/135528844",
+      "source": "ET Government – Education",
+      "category": "Policy & research",
+      "published_at": "2026-11-04T12:40:20+05:30",
+      "collected_at": "2026-11-06T14:01:47.919541+05:30"
+    },
+    {
+      "id": "2c6540469666ddeb",
+      "title": "India's services growth accelerates to 55.8 in October, cost pressures ease to six-year low",
+      "summary": "India's services sector activity expanded at its fastest pace in four months in October, with the HSBC India Services Purchasing Managers' Index (PMI) rising to 55.8 from 55.2 in September, while input cost inflation eased to its lowest level in more than six years, according to data released by S&P Global on Wednesday.",
+      "url": "https://government.economictimes.indiatimes.com/news/economy/indias-services-growth-accelerates-to-55-8-in-october-cost-pressures-ease-to-six-year-low/135528183",
+      "source": "ET Government – Economy",
+      "category": "Industry & economy",
+      "published_at": "2026-11-04T12:19:03+05:30",
+      "collected_at": "2026-11-06T14:01:47.919541+05:30"
+    },
+    {
+      "id": "seed-bhashini-sebi-20261104",
+      "title": "BHASHINI and SEBI explore multilingual AI for investor information",
+      "summary": "The Digital India BHASHINI Division and SEBI have signed an MoU to explore multilingual AI and language technologies for investor education and access to financial information. The collaboration focuses on making financial information and services more accessible across India’s language communities.",
+      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2332400&lang=1&reg=1",
+      "source": "Press Information Bureau",
+      "category": "Technology",
+      "published_at": "2026-11-04T12:16:00+05:30",
+      "collected_at": "2026-11-05T09:00:00+05:30"
+    },
+    {
+      "id": "bf4dc11db37c18b6",
+      "title": "SEBI inks MoU with Digital India BHASHINI Division to deliver services in regional languages",
+      "summary": "The Securities and Exchange Board of India (SEBI) entered into a Memorandum of Understanding (MoU) with the Digital India BHASHINI Division (DIBD) on Tuesday to expand investor access across regional Indian languages, according to an official SEBI press release.",
+      "url": "https://government.economictimes.indiatimes.com/news/digital-india/sebi-inks-mou-with-digital-india-bhashini-division-to-deliver-services-in-regional-languages/135523799",
+      "source": "ET Government – Digital India",
+      "category": "Technology",
+      "published_at": "2026-11-04T10:16:41+05:30",
+      "collected_at": "2026-11-06T14:01:47.919541+05:30"
+    },
+    {
+      "id": "2e8d458e013a975f",
+      "title": "CERT-In gets Mythos access; to assess its use in measured manner: IT Ministry sources",
+      "summary": "CERT-In has gained access to Anthropic's Mythos AI model and will cautiously assess its capabilities. The agency intends to explore how best to utilize the model for cybersecurity without rushing its implementation.",
+      "url": "https://government.economictimes.indiatimes.com/news/technology/cert-in-gets-mythos-access-to-assess-its-use-in-measured-manner-it-ministry-sources/135523490",
+      "source": "ET Government – Technology",
+      "category": "Technology",
+      "published_at": "2026-11-04T10:10:31+05:30",
+      "collected_at": "2026-11-06T14:01:47.919541+05:30"
+    },
+    {
+      "id": "001a4032199b6ee4",
+      "title": "MeitY unveils indigenous AI Models EKA-1, Dhīr 2B and 5B under IndiaAI mission",
+      "summary": "The IndiaAI Mission, part of the Ministry of Electronics and IT, recently unveiled three indigenous AI models. EKA-1 is designed for banking and cybersecurity, while Dhīr 2B and Dhīr 5B focus on low-connectivity environments.",
+      "url": "https://government.economictimes.indiatimes.com/news/technology/meity-unveils-indigenous-ai-models-eka-1-dhr-2b-and-5b-under-indiaai-mission/135523266",
+      "source": "ET Government – Technology",
+      "category": "Technology",
+      "published_at": "2026-11-04T10:06:09+05:30",
+      "collected_at": "2026-11-06T14:01:47.919541+05:30"
+    },
+    {
+      "id": "3453dc13fd40e78b",
+      "title": "India–UK education partnership shifts beyond student mobility to AI, design and creative industries",
+      "summary": "Shannon West of the British Council and Pearl Academy President Aditi Srivastava discuss how AI, creative industries, global partnerships and entrepreneurship are reshaping India–UK education ties.",
+      "url": "https://government.economictimes.indiatimes.com/news/education/indiauk-education-partnership-shifts-beyond-student-mobility-to-ai-design-and-creative-industries/135518260",
+      "source": "ET Government – Education",
+      "category": "EV & mobility",
+      "published_at": "2026-11-04T07:39:25+05:30",
+      "collected_at": "2026-11-06T14:01:47.919541+05:30"
+    },
+    {
+      "id": "75664cac3bac2b3c",
+      "title": "India plans indigenous GPU chips in 24 months, says MeitY Secretary S Krishnan on AI strategy",
+      "summary": "MeitY Secretary S Krishnan outlines India's plans for indigenous GPU chips, Semicon 2.0, sovereign AI, data protection and new opportunities for the IT industry amid AI-driven transformation.",
+      "url": "https://government.economictimes.indiatimes.com/news/digital-india/india-plans-indigenous-gpu-chips-in-24-months-says-meity-secretary-s-krishnan-on-ai-strategy/135508818",
+      "source": "ET Government – Digital India",
+      "category": "Technology",
+      "published_at": "2026-11-04T07:27:31+05:30",
+      "collected_at": "2026-11-06T14:01:47.919541+05:30"
+    },
+    {
+      "id": "seed-indiaai-models-20261103",
+      "title": "IndiaAI Mission releases new indigenous foundation models",
+      "summary": "The IndiaAI Mission has announced the release of EKA-1 and the Dhīr 2B and Dhīr 5B models under its IndiaAI Innovation Centre pillar. The models are presented as Indian-developed AI systems with multilingual capabilities and potential applications across sectors.",
+      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2332315&lang=1&reg=3",
+      "source": "Press Information Bureau",
+      "category": "Technology",
+      "published_at": "2026-11-03T22:02:00+05:30",
+      "collected_at": "2026-11-05T09:00:00+05:30"
+    },
+    {
+      "id": "4bc92f9dd3c9d623",
+      "title": "Tamil Nadu tops states in research publications on Niti Aayog's S&T scoreboard",
+      "summary": "Releasing the 'India S&T Scoreboard' report, Niti Aayog vice chairman Ashok Kumar Lahiri said India's further progress in science and technology requires a more active role by states.",
+      "url": "https://government.economictimes.indiatimes.com/news/technology/tamil-nadu-tops-states-in-research-publications-on-niti-aayogs-st-scoreboard/135503527",
+      "source": "ET Government – Technology",
+      "category": "Skills & livelihoods",
+      "published_at": "2026-11-03T20:42:23+05:30",
+      "collected_at": "2026-11-06T14:01:47.919541+05:30"
+    },
+    {
       "id": "seed-ap-cii-vizag-20261102",
       "title": "Visakhapatnam prepares to host CII Partnership Summit",
       "summary": "Andhra Pradesh is preparing to host the two-day CII Partnership Summit in Visakhapatnam on 12 and 13 November. State officials are coordinating arrangements and outreach to domestic and international investors, with the event expected to bring industry representatives together to explore investment and partnership opportunities.",
@@ -60,6 +230,16 @@
       "source": "Deccan Chronicle",
       "category": "Andhra Pradesh",
       "published_at": "2026-11-02T23:43:00+05:30",
+      "collected_at": "2026-11-05T09:00:00+05:30"
+    },
+    {
+      "id": "seed-msde-coe-20261102",
+      "title": "19 institutions recognised as Centres of Excellence-Skills",
+      "summary": "India’s Ministry of Skill Development and Entrepreneurship has recognised 19 institutions as Centres of Excellence-Skills. The network spans renewable energy, chemicals, construction, marine engineering, agriculture and other sectors, with the aim of strengthening advanced, industry-aligned training capacity.",
+      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2331775&lang=1&reg=1",
+      "source": "Press Information Bureau",
+      "category": "Skills & livelihoods",
+      "published_at": "2026-11-02T20:03:00+05:30",
       "collected_at": "2026-11-05T09:00:00+05:30"
     }
   ]
