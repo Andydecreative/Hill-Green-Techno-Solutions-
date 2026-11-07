@@ -1,7 +1,7 @@
 (function(){
   const root=document.getElementById('insightsGrid');
   if(!root)return;
-  const dataUrl='data/insights.json';
+  const dataUrl='https://raw.githubusercontent.com/Andydecreative/Hill-Green-Techno-Solutions-/main/data/insights.json';
   let articles=[],activeCategory='All',query='';
   const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const dateLabel=value=>{const d=new Date(value);return Number.isNaN(d.getTime())?'':new Intl.DateTimeFormat('en-IN',{day:'numeric',month:'short',year:'numeric',timeZone:'Asia/Kolkata'}).format(d)};
