@@ -1,7 +1,107 @@
 {
-  "updated_at": "2026-11-06T14:01:47.919541+05:30",
+  "updated_at": "2026-11-07T13:18:39.469956+05:30",
   "region": "India",
   "articles": [
+    {
+      "id": "f122a69eaa930bcf",
+      "title": "Deepotsav: From a festival of lights to a ₹55-crore economic opportunity for Ayodhya",
+      "summary": "Jaiveer Singh, Minister of Tourism & Culture, Government of Uttar Pradesh, on how Deepotsav is transforming Ayodhya into a global tourism destination while creating livelihoods, attracting investment and strengthening the local economy.",
+      "url": "https://government.economictimes.indiatimes.com/news/economy/deepotsav-from-a-festival-of-lights-to-a-55-crore-economic-opportunity-for-ayodhya/135624783",
+      "source": "ET Government – Economy",
+      "category": "Skills & livelihoods",
+      "published_at": "2026-11-07T08:12:40+05:30",
+      "collected_at": "2026-11-07T13:18:39.469956+05:30"
+    },
+    {
+      "id": "2dd774f0786d65dc",
+      "title": "Centre plans second telecom PLI scheme to boost local value addition",
+      "summary": "The government had rolled out the first edition of the telecom PLI scheme with an outlay of ₹12,195 crore. The scheme ended in March 2026.",
+      "url": "https://government.economictimes.indiatimes.com/news/technology/centre-plans-second-telecom-pli-scheme-to-boost-local-value-addition/135612667",
+      "source": "ET Government – Technology",
+      "category": "Policy & research",
+      "published_at": "2026-11-06T22:18:34+05:30",
+      "collected_at": "2026-11-07T13:18:39.469956+05:30"
+    },
+    {
+      "id": "ad0823ca4d447b0c",
+      "title": "Centre opens Semicon 2.0 portal, clears 12 electronics component projects worth ₹7,503 crore",
+      "summary": "Union IT Minister Ashwini Vaishnaw said India's electronics manufacturing journey has moved beyond assembly towards building a comprehensive domestic value chain spanning modules, components, materials and advanced technologies.",
+      "url": "https://government.economictimes.indiatimes.com/news/technology/centre-opens-semicon-2-0-portal-clears-12-electronics-component-projects-worth-7503-crore/135612646",
+      "source": "ET Government – Technology",
+      "category": "Industry & economy",
+      "published_at": "2026-11-06T22:12:35+05:30",
+      "collected_at": "2026-11-07T13:18:39.469956+05:30"
+    },
+    {
+      "id": "ca453b0bf6ee85ba",
+      "title": "India set to join EU's €93.5 billion Horizon Europe programme, boosting scientific collaboration",
+      "summary": "India's proposed association with the EU's €93.5 billion Horizon Europe programme will enable Indian researchers, universities and businesses to access European research funding and lead multinational projects from 2027.",
+      "url": "https://government.economictimes.indiatimes.com/news/digital-india/india-set-to-join-eus-93-5-billion-horizon-europe-programme-boosting-scientific-collaboration/135610241",
+      "source": "ET Government – Digital India",
+      "category": "Policy & research",
+      "published_at": "2026-11-06T19:24:24+05:30",
+      "collected_at": "2026-11-07T13:18:39.469956+05:30"
+    },
+    {
+      "id": "aca5eec7ac752b9f",
+      "title": "UIDAI adds 300 offline verification entities; Aadhaar App nears 7.5 crore downloads nationwide",
+      "summary": "UIDAI expands Aadhaar-based offline verification with 300 entities as App downloads near 7.5 crore, enabling millions of mobile, address and email updates alongside enhanced digital identity security.",
+      "url": "https://government.economictimes.indiatimes.com/news/digital-india/uidai-adds-300-offline-verification-entities-aadhaar-app-nears-7-5-crore-downloads-nationwide/135605935",
+      "source": "ET Government – Digital India",
+      "category": "Technology",
+      "published_at": "2026-11-06T17:07:39+05:30",
+      "collected_at": "2026-11-07T13:18:39.469956+05:30"
+    },
+    {
+      "id": "d693052be0ecd99c",
+      "title": "From digital public infrastructure to public intelligence: Building sovereign, AI-ready services for India",
+      "summary": "As artificial intelligence reshapes public-service delivery, India’s next phase of digital transformation must balance intelligence and innovation with data sovereignty, cybersecurity, inclusion and citizen trust. At the inaugural Accelerating India Dialogues, senior government officials and TCS leaders examined how India can build sovereign, AI-ready public services that anticipate citizen needs, support better decision-making and strengthen governance at scale.",
+      "url": "https://government.economictimes.indiatimes.com/news/news/from-digital-public-infrastructure-to-public-intelligence-building-sovereign-ai-ready-services-for-india/135603715",
+      "source": "ET Government – Digital India",
+      "category": "Technology",
+      "published_at": "2026-11-06T16:45:29+05:30",
+      "collected_at": "2026-11-07T13:18:39.469956+05:30"
+    },
+    {
+      "id": "e254aaf94a9ef509",
+      "title": "DGTR recommends imposition of quantitative restrictions on soda ash imports for 2 years",
+      "summary": "The Directorate General of Trade Remedies has signaled its intention to introduce protective measures to curb the influx of soda ash imports.",
+      "url": "https://government.economictimes.indiatimes.com/news/economy/dgtr-recommends-imposition-of-quantitative-restrictions-on-soda-ash-imports-for-2-years/135603795",
+      "source": "ET Government – Economy",
+      "category": "Industry & economy",
+      "published_at": "2026-11-06T16:02:28+05:30",
+      "collected_at": "2026-11-07T13:18:39.469956+05:30"
+    },
+    {
+      "id": "6ef944577b79ba78",
+      "title": "Bengal govt clears 393 private BEd colleges for admissions in 2026-28 session",
+      "summary": "Kolkata's Higher Education Minister Jagannath Chattopadhyay announced 393 private BEd colleges have been approved for future admissions.",
+      "url": "https://government.economictimes.indiatimes.com/news/education/bengal-govt-clears-393-private-bed-colleges-for-admissions-in-2026-28-session/135602964",
+      "source": "ET Government – Education",
+      "category": "Skills & livelihoods",
+      "published_at": "2026-11-06T15:57:47+05:30",
+      "collected_at": "2026-11-07T13:18:39.469956+05:30"
+    },
+    {
+      "id": "6e3c8d941cb402e3",
+      "title": "Rajasthan records highest-ever monthly GST, VAT collection of ₹7,047 crore in October",
+      "summary": "October revenue collection exceeds previous record of ₹6,826.60 crore set in March 2026; year-on-year growth of 11.79%.",
+      "url": "https://government.economictimes.indiatimes.com/news/economy/rajasthan-records-highest-ever-monthly-gst-vat-collection-of-7047-crore-in-october/135603336",
+      "source": "ET Government – Economy",
+      "category": "Industry & economy",
+      "published_at": "2026-11-06T15:49:49+05:30",
+      "collected_at": "2026-11-07T13:18:39.469956+05:30"
+    },
+    {
+      "id": "c5fbcb5fe24c849e",
+      "title": "Rajasthan government schools record increase in enrollment after five years",
+      "summary": "Enrollment reaches 72.98 lakh in July 2026, an increase of 48,358 over 2025-26; 15 teachers selected under Star Teacher initiative.",
+      "url": "https://government.economictimes.indiatimes.com/news/education/rajasthan-government-schools-record-increase-in-enrollment-after-five-years/135600918",
+      "source": "ET Government – Education",
+      "category": "Policy & research",
+      "published_at": "2026-11-06T14:23:00+05:30",
+      "collected_at": "2026-11-07T13:18:39.469956+05:30"
+    },
     {
       "id": "945c51cf6934d463",
       "title": "US midterm verdict: Oil prices to AI trade, 5 things that matter for India after Democrats’ sweep",
@@ -223,6 +323,56 @@
       "collected_at": "2026-11-06T14:01:47.919541+05:30"
     },
     {
+      "id": "08acdb9c1f45ca6b",
+      "title": "Karnataka signs LoI with Finland's Business Tampere to explore creative corridor",
+      "summary": "The LoI has been signed by the state government, under the Global Innovation Alliance (GIA) initiative of the Department of Electronics, Information Technology and Biotechnology, through the Karnataka Innovation and Technology Society (KITS), officials said.",
+      "url": "https://government.economictimes.indiatimes.com/news/technology/karnataka-signs-loi-with-finlands-business-tampere-to-explore-creative-corridor/135500344",
+      "source": "ET Government – Technology",
+      "category": "Technology",
+      "published_at": "2026-11-03T18:47:42+05:30",
+      "collected_at": "2026-11-07T13:18:39.469956+05:30"
+    },
+    {
+      "id": "eee0d28c9a68ffd4",
+      "title": "Bihar CM says Farakka Treaty restricts state's industrial water access",
+      "summary": "Bihar Chief Minister Samrat Choudhary highlighted the need for adequate water to promote economic development. He pointed out that the Farakka Water Treaty restricts Bihar to receive water for only four months each year.",
+      "url": "https://government.economictimes.indiatimes.com/news/policy/bihar-cm-says-farakka-treaty-restricts-states-industrial-water-access/135492473",
+      "source": "ET Government – Policy",
+      "category": "Industry & economy",
+      "published_at": "2026-11-03T15:48:40+05:30",
+      "collected_at": "2026-11-07T13:18:39.469956+05:30"
+    },
+    {
+      "id": "cab4900a35e43fd9",
+      "title": "India has never allowed import of GM products, will not do so in future: Goyal",
+      "summary": "India's Commerce and Industry Minister Piyush Goyal reiterated that the country will not allow genetically modified products. He emphasized the sensitivity of the dairy sector, stating there have been no duty concessions in free trade agreements.",
+      "url": "https://government.economictimes.indiatimes.com/news/economy/india-has-never-allowed-import-of-gm-products-will-not-do-so-in-future-goyal/135489279",
+      "source": "ET Government – Economy",
+      "category": "Industry & economy",
+      "published_at": "2026-11-03T15:35:01+05:30",
+      "collected_at": "2026-11-07T13:18:39.469956+05:30"
+    },
+    {
+      "id": "5d460ba055db448f",
+      "title": "MEA condemns attack on vessel off Oman coast that kills one Indian national",
+      "summary": "India condemns the attack on MSV AL JUSUFI near Limah, Oman, as 13 of the 14 Indian nationals onboard are rescued; Embassy coordinates repatriation of survivors and mortal remains.",
+      "url": "https://government.economictimes.indiatimes.com/news/policy/mea-condemns-attack-on-vessel-off-oman-coast-that-kills-one-indian-national/135504976",
+      "source": "ET Government – Policy",
+      "category": "Policy & research",
+      "published_at": "2026-11-03T14:38:08+05:30",
+      "collected_at": "2026-11-07T13:18:39.469956+05:30"
+    },
+    {
+      "id": "1389b0f9bf5d2cc7",
+      "title": "Need to make judicial system more accessible, efficient through modern tech: CJI Surya Kant",
+      "summary": "Chief Justice Surya Kant inaugurated the Jharkhand High Court data centre and highlighted technological advancements in the judiciary.",
+      "url": "https://government.economictimes.indiatimes.com/news/digital-india/need-to-make-judicial-system-more-accessible-efficient-through-modern-tech-cji-surya-kant/135481849",
+      "source": "ET Government – Digital India",
+      "category": "Technology",
+      "published_at": "2026-11-03T09:55:59+05:30",
+      "collected_at": "2026-11-07T13:18:39.469956+05:30"
+    },
+    {
       "id": "seed-ap-cii-vizag-20261102",
       "title": "Visakhapatnam prepares to host CII Partnership Summit",
       "summary": "Andhra Pradesh is preparing to host the two-day CII Partnership Summit in Visakhapatnam on 12 and 13 November. State officials are coordinating arrangements and outreach to domestic and international investors, with the event expected to bring industry representatives together to explore investment and partnership opportunities.",
@@ -231,6 +381,36 @@
       "category": "Andhra Pradesh",
       "published_at": "2026-11-02T23:43:00+05:30",
       "collected_at": "2026-11-05T09:00:00+05:30"
+    },
+    {
+      "id": "6cc4ef0d43943b47",
+      "title": "Delhi schools told to set up anti-tobacco committees, ensure drug-free campuses",
+      "summary": "According to a circular issued by the Educational and Vocational Guidance and Counselling Bureau, the directions were issued under the Nasha Mukt Bharat Abhiyaan and Nasha Mukt Delhi Campaign to promote preventive education, early identification, counselling and referral services.",
+      "url": "https://government.economictimes.indiatimes.com/news/education/delhi-schools-told-to-set-up-anti-tobacco-committees-ensure-drug-free-campuses/135467311",
+      "source": "ET Government – Education",
+      "category": "Skills & livelihoods",
+      "published_at": "2026-11-02T21:43:51+05:30",
+      "collected_at": "2026-11-07T13:18:39.469956+05:30"
+    },
+    {
+      "id": "168153efff27901c",
+      "title": "Haryana CM Saini invites Punjab industrialists to invest in state",
+      "summary": "Haryana Chief Minister Nayab Singh Saini said the Haryana government is making continuous efforts to accelerate industrial development and create an investor-friendly environment in the state.",
+      "url": "https://government.economictimes.indiatimes.com/news/economy/haryana-cm-saini-invites-punjab-industrialists-to-invest-in-state/135467192",
+      "source": "ET Government – Economy",
+      "category": "Policy & research",
+      "published_at": "2026-11-02T21:38:07+05:30",
+      "collected_at": "2026-11-07T13:18:39.469956+05:30"
+    },
+    {
+      "id": "6100a65aa3696592",
+      "title": "Sebi allows REITs, InvITs to issue depository receipts",
+      "summary": "Sebi has permitted the issuance of Depository Receipts against the units of Real Estate Investment Trusts and Infrastructure Investment Trusts. This move aims to draw more foreign investment into these financial instruments, enhancing capital inflow.",
+      "url": "https://government.economictimes.indiatimes.com/news/economy/sebi-allows-reits-invits-to-issue-depository-receipts/135467096",
+      "source": "ET Government – Economy",
+      "category": "Industry & economy",
+      "published_at": "2026-11-02T21:34:07+05:30",
+      "collected_at": "2026-11-07T13:18:39.469956+05:30"
     },
     {
       "id": "seed-msde-coe-20261102",
