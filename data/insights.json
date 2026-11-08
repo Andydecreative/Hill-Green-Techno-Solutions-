@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-07T13:18:39.469956+05:30",
+  "updated_at": "2026-11-08T13:30:22.396777+05:30",
   "region": "India",
   "articles": [
+    {
+      "id": "e0847ecb35ab6d98",
+      "title": "Delhi to enforce annual ban on out-of-state BS-IV and older vehicles from November 1",
+      "summary": "The Delhi government will prohibit vehicles registered outside the national capital and below BS-VI emission standards from plying between November 1 and January 31 every year.",
+      "url": "https://government.economictimes.indiatimes.com/news/policy/delhi-to-enforce-annual-ban-on-out-of-state-bs-iv-and-older-vehicles-from-november-1/135653564",
+      "source": "ET Government – Policy",
+      "category": "Policy & research",
+      "published_at": "2026-11-08T12:30:22+05:30",
+      "collected_at": "2026-11-08T13:30:22.396777+05:30"
+    },
+    {
+      "id": "7e8f3e06e3cd94ee",
+      "title": "Karnataka plans English-medium sections in all public schools",
+      "summary": "Karnataka plans to introduce English-medium sections in all 48,527 government schools from the next academic year to curb student migration to private institutions.",
+      "url": "https://government.economictimes.indiatimes.com/news/education/karnataka-plans-english-medium-sections-in-all-public-schools/135631810",
+      "source": "ET Government – Education",
+      "category": "Policy & research",
+      "published_at": "2026-11-07T14:25:18+05:30",
+      "collected_at": "2026-11-08T13:30:22.396777+05:30"
+    },
+    {
+      "id": "5446cf07ff6d655b",
+      "title": "Himachal executes first inter-state Golden Mahseer fingerling shipment to West Bengal",
+      "summary": "Himachal Pradesh's Department of Fisheries supplied 2,000 Golden Mahseer fingerlings to West Bengal to assess transportation challenges. This marks the state's first interstate fish fingerling supply, promoting quality indigenous fish species.",
+      "url": "https://government.economictimes.indiatimes.com/news/economy/himachal-executes-first-inter-state-golden-mahseer-fingerling-shipment-to-west-bengal/135631082",
+      "source": "ET Government – Economy",
+      "category": "Industry & economy",
+      "published_at": "2026-11-07T14:09:53+05:30",
+      "collected_at": "2026-11-08T13:30:22.396777+05:30"
+    },
+    {
+      "id": "d2090a0965aac2fe",
+      "title": "Sri Lankan High Commission hosts Diwali with Diplomats, celebrates culture and friendship",
+      "summary": "The Sri Lankan High Commission hosted Diwali with Diplomats in New Delhi, bringing together international envoys for an evening of cultural performances, festive traditions and diplomatic friendship.",
+      "url": "https://government.economictimes.indiatimes.com/news/policy/sri-lankan-high-commission-hosts-diwali-with-diplomats-celebrates-culture-and-friendship/135630885",
+      "source": "ET Government – Policy",
+      "category": "Policy & research",
+      "published_at": "2026-11-07T13:39:51+05:30",
+      "collected_at": "2026-11-08T13:30:22.396777+05:30"
+    },
     {
       "id": "f122a69eaa930bcf",
       "title": "Deepotsav: From a festival of lights to a ₹55-crore economic opportunity for Ayodhya",
@@ -413,6 +453,16 @@
       "collected_at": "2026-11-07T13:18:39.469956+05:30"
     },
     {
+      "id": "5a64bbcef39bf659",
+      "title": "Tatas important for economy; differences should be settled amicably: FM",
+      "summary": "Finance Minister Nirmala Sitharaman highlighted the importance of resolving the differences between Tata Sons and Tata Trusts. She stated that the matter is crucial for the Indian economy and should not be publicized further.",
+      "url": "https://government.economictimes.indiatimes.com/news/economy/tatas-important-for-economy-differences-should-be-settled-amicably-fm/135465364",
+      "source": "ET Government – Economy",
+      "category": "Industry & economy",
+      "published_at": "2026-11-02T20:14:18+05:30",
+      "collected_at": "2026-11-08T13:30:22.396777+05:30"
+    },
+    {
       "id": "seed-msde-coe-20261102",
       "title": "19 institutions recognised as Centres of Excellence-Skills",
       "summary": "India’s Ministry of Skill Development and Entrepreneurship has recognised 19 institutions as Centres of Excellence-Skills. The network spans renewable energy, chemicals, construction, marine engineering, agriculture and other sectors, with the aim of strengthening advanced, industry-aligned training capacity.",
@@ -421,6 +471,136 @@
       "category": "Skills & livelihoods",
       "published_at": "2026-11-02T20:03:00+05:30",
       "collected_at": "2026-11-05T09:00:00+05:30"
+    },
+    {
+      "id": "c6367375f607b543",
+      "title": "NTPC to set up India's first ceramic-based project to generate solar power at night in Rajasthan's Bhadla",
+      "summary": "The project aims to assess the possibility of generating solar power at night while reducing dependence on conventional battery storage.",
+      "url": "https://government.economictimes.indiatimes.com/news/policy/ntpc-to-set-up-indias-first-ceramic-based-project-to-generate-solar-power-at-night-in-rajasthans-bhadla/135453875",
+      "source": "ET Government – Policy",
+      "category": "EV & mobility",
+      "published_at": "2026-11-02T15:19:52+05:30",
+      "collected_at": "2026-11-08T13:30:22.396777+05:30"
+    },
+    {
+      "id": "eee2446a3fd63ae2",
+      "title": "India likely to meet FY27 fiscal deficit target despite spending pressures: Goldman Sachs",
+      "summary": "The Centre is likely to meet its fiscal deficit target of 4.3 per cent of GDP for FY27 despite the deficit reaching 42.6 per cent of the full-year estimate in the first six months, as stronger corporate tax collections are helping offset revenue pressures, according to a report by Goldman Sachs Research.",
+      "url": "https://government.economictimes.indiatimes.com/news/economy/india-likely-to-meet-fy27-fiscal-deficit-target-despite-spending-pressures-goldman-sachs/135449158",
+      "source": "ET Government – Economy",
+      "category": "Policy & research",
+      "published_at": "2026-11-02T12:27:36+05:30",
+      "collected_at": "2026-11-08T13:30:22.396777+05:30"
+    },
+    {
+      "id": "976da3f21c2c191e",
+      "title": "Akshaya Patra targets six million daily meals by 2030, expands focus on child nutrition",
+      "summary": "Bharatarshabha Dasa outlines Akshaya Patra's Mission 2030, its expansion plans, use of AI and technology, government partnerships, and the shift from addressing classroom hunger to tackling child malnutrition.",
+      "url": "https://government.economictimes.indiatimes.com/news/policy/akshaya-patra-targets-six-million-daily-meals-by-2030-expands-focus-on-child-nutrition/135447277",
+      "source": "ET Government – Policy",
+      "category": "Technology",
+      "published_at": "2026-11-02T11:32:54+05:30",
+      "collected_at": "2026-11-08T13:30:22.396777+05:30"
+    },
+    {
+      "id": "6e685b3ea7cef6ac",
+      "title": "UP to launch state Quantum Mission, steps up push to build AI and robotics ecosystem",
+      "summary": "The proposed mission is part of a broader push to strengthen the state’s emerging technology ecosystem, attract investments, expand AI adoption and create new opportunities for startups and industry.",
+      "url": "https://government.economictimes.indiatimes.com/news/technology/up-to-launch-state-quantum-mission-steps-up-push-to-build-ai-and-robotics-ecosystem/135427324",
+      "source": "ET Government – Technology",
+      "category": "Technology",
+      "published_at": "2026-11-01T17:56:59+05:30",
+      "collected_at": "2026-11-08T13:30:22.396777+05:30"
+    },
+    {
+      "id": "2a63e60219dc7955",
+      "title": "UPI transactions cross 25 billion in October, daily value tops ₹1 lakh crore",
+      "summary": "UPI processed 25.47 billion transactions worth ₹31.53 lakh crore in October, compared with 24.07 billion transactions valued at ₹29.37 lakh crore in September. Transaction volumes rose 5.8 per cent month on month, while the value of payments increased 7.4 per cent.",
+      "url": "https://government.economictimes.indiatimes.com/news/economy/upi-transactions-cross-25-billion-in-october-daily-value-tops-1-lakh-crore/135423334",
+      "source": "ET Government – Economy",
+      "category": "Industry & economy",
+      "published_at": "2026-11-01T15:15:21+05:30",
+      "collected_at": "2026-11-08T13:30:22.396777+05:30"
+    },
+    {
+      "id": "7970a1f5129393a6",
+      "title": "Gross GST collections rise 23% to over ₹2.31 lakh crore in October",
+      "summary": "Gross GST collections from domestic sales rose 16 per cent to over ₹1.59 lakh crore, and revenues from imports climbed 42 per cent to ₹72,246 crore.",
+      "url": "https://government.economictimes.indiatimes.com/news/economy/gross-gst-collections-rise-23-to-over-2-31-lakh-crore-in-october/135423222",
+      "source": "ET Government – Economy",
+      "category": "Industry & economy",
+      "published_at": "2026-11-01T15:08:13+05:30",
+      "collected_at": "2026-11-08T13:30:22.396777+05:30"
+    },
+    {
+      "id": "acfa66e9976c66ff",
+      "title": "Commercial LPG price raised by ₹10, ATF rates up for fourth straight month",
+      "summary": "The commercial LPG price revision marks another increase for hotels, restaurants and other commercial consumers. This is the second consecutive monthly hike, following a ₹62.50 increase per 19-kg cylinder on October 1. Rates had also risen by ₹9.50 on September 1.",
+      "url": "https://government.economictimes.indiatimes.com/news/economy/commercial-lpg-price-raised-by-10-atf-rates-up-for-fourth-straight-month/135418751",
+      "source": "ET Government – Economy",
+      "category": "Industry & economy",
+      "published_at": "2026-11-01T11:00:26+05:30",
+      "collected_at": "2026-11-08T13:30:22.396777+05:30"
+    },
+    {
+      "id": "cb4844f7692829f4",
+      "title": "Round-the-clock clean power key to Uttar Pradesh’s industrial competitiveness: Hinduja Renewables CEO",
+      "summary": "Deepak Thakur, Managing Director and CEO of Hinduja Renewables Energy, argued that renewable energy must increasingly be viewed as an instrument of industrial competitiveness, investment and economic growth, rather than merely an alternative source of electricity.",
+      "url": "https://government.economictimes.indiatimes.com/news/economy/round-the-clock-clean-power-key-to-uttar-pradeshs-industrial-competitiveness-hinduja-renewables-ceo/135418590",
+      "source": "ET Government – Economy",
+      "category": "Industry & economy",
+      "published_at": "2026-11-01T10:50:31+05:30",
+      "collected_at": "2026-11-08T13:30:22.396777+05:30"
+    },
+    {
+      "id": "894264b5131a9e5d",
+      "title": "Union Bank of India expands banking infrastructure in Uttar Pradesh, MD inaugurates new facilities",
+      "summary": "MD and CEO Asheesh Pandey lays foundation stone for a new building in Lucknow and inaugurates a Mid Corporate Branch, employee basketball turf and regional office in Kanpur during his two-day visit.",
+      "url": "https://government.economictimes.indiatimes.com/news/economy/union-bank-of-india-expands-banking-infrastructure-in-uttar-pradesh-md-inaugurates-new-facilities/135418511",
+      "source": "ET Government – Economy",
+      "category": "Industry & economy",
+      "published_at": "2026-11-01T10:44:52+05:30",
+      "collected_at": "2026-11-08T13:30:22.396777+05:30"
+    },
+    {
+      "id": "246d280fd4f9d628",
+      "title": "India’s sovereign AI push moves from foundational models to real-world applications for Bharat: Ganesh Ramakrishnan",
+      "summary": "BharatGen’s Ganesh Ramakrishnan says building AI for India's linguistic diversity, data sovereignty and public-sector needs will be critical to achieving the country’s Viksit Bharat 2047 vision.",
+      "url": "https://government.economictimes.indiatimes.com/news/technology/indias-sovereign-ai-push-moves-from-foundational-models-to-real-world-applications-for-bharat-ganesh-ramakrishnan/135418246",
+      "source": "ET Government – Technology",
+      "category": "Technology",
+      "published_at": "2026-11-01T10:33:23+05:30",
+      "collected_at": "2026-11-08T13:30:22.396777+05:30"
+    },
+    {
+      "id": "70c4affb4054cbed",
+      "title": "Uttar Pradesh looks beyond Lucknow, Noida to expand startup ecosystem",
+      "summary": "Two partnerships announced at Sankalp Bharat 2026 aim to connect entrepreneurs with investors, mentors and markets, while taking people-first AI to 25 districts in eastern UP.",
+      "url": "https://government.economictimes.indiatimes.com/news/economy/uttar-pradesh-looks-beyond-lucknow-noida-to-expand-startup-ecosystem/135402783",
+      "source": "ET Government – Economy",
+      "category": "Technology",
+      "published_at": "2026-10-31T19:15:12+05:30",
+      "collected_at": "2026-11-08T13:30:22.396777+05:30"
+    },
+    {
+      "id": "d74ae0d62a68953a",
+      "title": "Ananth Technologies supplies critical avionics, electronics systems for ISRO's GSLV-F18, NVS-03 mission",
+      "summary": "Hyderabad-based company contributes 46 avionics packages for the launch vehicle and nine spacecraft systems, highlighting the expanding role of India's private industry in space missions.",
+      "url": "https://government.economictimes.indiatimes.com/news/technology/ananth-technologies-supplies-critical-avionics-electronics-systems-for-isros-gslv-f18-nvs-03-mission/135402791",
+      "source": "ET Government – Technology",
+      "category": "Industry & economy",
+      "published_at": "2026-10-31T19:13:23+05:30",
+      "collected_at": "2026-11-08T13:30:22.396777+05:30"
+    },
+    {
+      "id": "09db861172d092fc",
+      "title": "Hinduja Group committed to partnering with UP in its journey towards $1 trillion economy: S K Chadda",
+      "summary": "At ET Vision Conclave 5.0 in Lucknow, Hinduja Group President – Corporate Affairs S K Chadda highlighted investments in electric mobility, healthcare, education and digital entrepreneurship, and praised UP’s investor-friendly approach.",
+      "url": "https://government.economictimes.indiatimes.com/news/economy/hinduja-group-committed-to-partnering-with-up-in-its-journey-towards-1-trillion-economy-s-k-chadda/135401704",
+      "source": "ET Government – Economy",
+      "category": "EV & mobility",
+      "published_at": "2026-10-31T18:30:43+05:30",
+      "collected_at": "2026-11-08T13:30:22.396777+05:30"
     }
   ]
 }
